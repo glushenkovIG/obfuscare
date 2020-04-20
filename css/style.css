@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
 h1 {
-    font-size   : 50px !important;
+    font-size   : 48px !important;
     line-height : 1em;
     font-weight : 700;
     }
@@ -682,3 +682,17 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+
+.h1-hi {
+    color: #82b541 !important;
+    line-height: 1.4em !important;
+}
+
+.oa-hi {
+    font-weight: bold !important;
+    color: #528511 !important;
+}
+
+.oa-hi-2 {
+    font-weight: bold !important;
+}
