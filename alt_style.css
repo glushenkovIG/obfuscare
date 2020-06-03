@@ -34,7 +34,7 @@ header {
 }
 
 .person-inner:before, .person-inner:after {
-    content: "✩";
+    content: "✾";
     color: #555555;
     font-weight: normal;
     margin-left: 0.3em;
