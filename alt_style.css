@@ -35,7 +35,7 @@ header {
 
 .person-inner:before, .person-inner:after {
     content: "✾";
-    color: #555555;
+    color: #40bb40;
     font-weight: normal;
     margin-left: 0.3em;
     margin-right: 0.3em;
